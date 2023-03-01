@@ -1,0 +1,65 @@
+body {
+    font-family: "Impact";
+}
+
+.header-logo {
+    float:left;
+    font-size:44px;
+    padding:20px 40px;
+}
+
+
+.header-list li {
+    list-style:none;
+    float:left;
+    padding:33px 20px;
+}
+
+.footer-logo {
+    float:left;
+    font-size:30px;
+    padding:20px;
+}
+
+.footer-list {
+    float:right;
+}
+
+
+.footer-list li {
+    list-style:none;
+    padding-bottom: 20px;
+
+}
+
+.copy-container h1 {
+    font-size:142px;
+}
+
+.copy-container span {
+    color:#f0664d;
+}
+
+.copy-container h2 {
+    font-size:60px;
+}
+
+
+
+.header {
+    background-color:#f0664d;
+    height:90px;
+    color:#fff;
+}
+
+.main {
+    padding:100px 80px;
+
+}
+
+.footer {
+    height:120px;
+    padding:40px;
+    background-color:#355469;
+    color:#fff;
+}
